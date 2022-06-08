@@ -1,6 +1,6 @@
 .subscribeButton {
   height: 4rem;
-  width: 4rem;
+  
   border: 0;
   border-radius: 2rem;
   background: var(--yellow-500);
@@ -11,7 +11,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-
+  padding: 1rem 5rem;
   transition: filter 0.2s;
 
   &:hover {
